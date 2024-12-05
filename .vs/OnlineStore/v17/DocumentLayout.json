@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CartPage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\CartPage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\OrderHistoryPage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|c:\\users\\student\\downloads\\onlinestore\\onlinestore\\onlinestore\\onlinestore.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\onlinestore.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|c:\\users\\student\\downloads\\onlinestore\\onlinestore\\onlinestore\\onlinestore.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\onlinestore.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CatalogPage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\CatalogPage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|c:\\users\\student\\downloads\\onlinestore\\onlinestore\\onlinestore\\catalogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\catalogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CartPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\CartPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:OnlineStore\\OrderHistoryPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnlineStore.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OnlineStore.Context.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\OnlineStore.Context.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OnlineStore.Context.cs",
+              "RelativeToolTip": "OnlineStore\\OnlineStore.Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:39:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineStore.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OnlineStore.edmx",
+              "RelativeDocumentMoniker": "OnlineStore\\OnlineStore.edmx",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OnlineStore.edmx [Diagram1]",
+              "RelativeToolTip": "OnlineStore\\OnlineStore.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-05T07:39:09.085Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderHistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\OrderHistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\OrderHistoryPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:20:08.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\CartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CartPage.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\CartPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwEsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:49:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CatalogPage.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\CatalogPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CatalogPage.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\CatalogPage.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:48:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderHistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\OrderHistoryPage.xaml",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml",
+              "RelativeToolTip": "OnlineStore\\OrderHistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T21:44:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CartPage.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\CartPage.xaml",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CartPage.xaml",
+              "RelativeToolTip": "OnlineStore\\CartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T21:43:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatalogPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CatalogPage.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\CatalogPage.xaml",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\CatalogPage.xaml",
+              "RelativeToolTip": "OnlineStore\\CatalogPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T21:43:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\MainWindow.xaml",
+              "RelativeToolTip": "OnlineStore\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T20:08:43.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\OnlineStore\\OnlineStore\\OnlineStore\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:08:43.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

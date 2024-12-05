@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\catalogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\catalogpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|d:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\onlinestore\\onlinestore\\catalogpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\catalogpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\cartpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\cartpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\orderhistorypage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\orderhistorypage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\orderhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\orderhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\onlinestore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3688198E-0825-432B-A769-ADB98EEF1326}|OnlineStore\\OnlineStore.csproj|solutionrelative:onlinestore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHistoryPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\OrderHistoryPage.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\OrderHistoryPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:20:08.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\CartPage.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CartPage.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\CartPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:49:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CatalogPage.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\CatalogPage.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CatalogPage.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\CatalogPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:48:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHistoryPage.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\OrderHistoryPage.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\OrderHistoryPage.xaml",
+              "RelativeToolTip": "OnlineStore\\OrderHistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T21:44:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CartPage.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\CartPage.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CartPage.xaml",
+              "RelativeToolTip": "OnlineStore\\CartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T21:43:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogPage.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CatalogPage.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\CatalogPage.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\CatalogPage.xaml",
+              "RelativeToolTip": "OnlineStore\\CatalogPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T21:43:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OnlineStore\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\MainWindow.xaml",
+              "RelativeToolTip": "OnlineStore\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T20:08:43.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OnlineStore\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\code\\vss\\OnlineStore\\OnlineStore\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OnlineStore\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:08:43.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\MainWindow.g.cs
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\App.g.cs
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\MainWindow.baml
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.g.resources
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\CartPage.g.cs
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\CatalogPage.g.cs
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OrderHistoryPage.g.cs
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\CartPage.baml
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\CatalogPage.baml
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OrderHistoryPage.baml
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\EntityFramework.dll
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\EntityFramework.xml
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\для учебы\code\vss\OnlineStore\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+D:\для учебы\code\vss\OnlineStore\OnlineStore\obj\Debug\OnlineSt.916B8FA7.Up2Date
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\EntityFramework.dll
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\EntityFramework.xml
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\CartPage.g.cs
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\CatalogPage.g.cs
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OrderHistoryPage.g.cs
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\App.g.cs
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore_Content.g.cs
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.cache
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore_MarkupCompile.lref
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\CartPage.baml
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\CatalogPage.baml
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\MainWindow.baml
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OrderHistoryPage.baml
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.g.resources
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineSt.916B8FA7.Up2Date
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+C:\Users\Student\Downloads\OnlineStore\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb

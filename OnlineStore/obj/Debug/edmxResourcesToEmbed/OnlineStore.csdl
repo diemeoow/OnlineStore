@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cart">
+    <Key>
+      <PropertyRef Name="CartID" />
+    </Key>
+    <Property Name="CartID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Cart__ProductID__3B75D760" FromRole="Cart" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="OrderHistory">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="ProductID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__OrderHist__Produ__5DCAEF64" FromRole="OrderHistory" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="Stock" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Cart" Relationship="Self.FK__Cart__ProductID__3B75D760" FromRole="Products" ToRole="Cart" />
+    <NavigationProperty Name="OrderHistory" Relationship="Self.FK__OrderHist__Produ__5DCAEF64" FromRole="Products" ToRole="OrderHistory" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__Cart__ProductID__3B75D760">
+    <End Role="Products" Type="Self.Products" Multiplicity="1" />
+    <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderHist__Produ__5DCAEF64">
+    <End Role="Products" Type="Self.Products" Multiplicity="1" />
+    <End Role="OrderHistory" Type="Self.OrderHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="OrderHistory">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="StoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cart" EntityType="Self.Cart" />
+    <EntitySet Name="OrderHistory" EntityType="Self.OrderHistory" />
+    <EntitySet Name="Products" EntityType="Self.Products" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK__Cart__ProductID__3B75D760" Association="Self.FK__Cart__ProductID__3B75D760">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Cart" EntitySet="Cart" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderHist__Produ__5DCAEF64" Association="Self.FK__OrderHist__Produ__5DCAEF64">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="OrderHistory" EntitySet="OrderHistory" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
